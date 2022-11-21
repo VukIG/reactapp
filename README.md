@@ -1,2 +1,0 @@
-# reactapp
-lorem ipsum
